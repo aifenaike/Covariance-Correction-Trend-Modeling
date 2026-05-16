@@ -1,0 +1,145 @@
+combo_index,trend_label,range_ratio,variance_ratio,variogram_type,residual_seed,residual_range_m,folder,actual_trend_to_total_var,f_regular,nugget
+0,Asymmetric Ridge,0.1,0.4,Spherical,1300,100.0,GS_experiment_datasets/0000_Asymmetric_Ridge_rr0.1_vr0.4_fr0.25_Spherical,0.40006147187720853,0.25,0
+1,Asymmetric Ridge,0.1,0.4,Spherical,1301,100.0,GS_experiment_datasets/0001_Asymmetric_Ridge_rr0.1_vr0.4_fr0.5_Spherical,0.4000009972686908,0.5,0
+2,Asymmetric Ridge,0.1,0.4,Spherical,1302,100.0,GS_experiment_datasets/0002_Asymmetric_Ridge_rr0.1_vr0.4_fr1_Spherical,0.40050791163813787,1.0,0
+3,Asymmetric Ridge,0.1,0.5,Spherical,1303,100.0,GS_experiment_datasets/0003_Asymmetric_Ridge_rr0.1_vr0.5_fr0.25_Spherical,0.5000347756020952,0.25,0
+4,Asymmetric Ridge,0.1,0.5,Spherical,1304,100.0,GS_experiment_datasets/0004_Asymmetric_Ridge_rr0.1_vr0.5_fr0.5_Spherical,0.5095697713289085,0.5,0
+5,Asymmetric Ridge,0.1,0.5,Spherical,1305,100.0,GS_experiment_datasets/0005_Asymmetric_Ridge_rr0.1_vr0.5_fr1_Spherical,0.5002921250295127,1.0,0
+6,Asymmetric Ridge,0.1,0.6,Spherical,1306,100.0,GS_experiment_datasets/0006_Asymmetric_Ridge_rr0.1_vr0.6_fr0.25_Spherical,0.6016598063125363,0.25,0
+7,Asymmetric Ridge,0.1,0.6,Spherical,1307,100.0,GS_experiment_datasets/0007_Asymmetric_Ridge_rr0.1_vr0.6_fr0.5_Spherical,0.6031349694811193,0.5,0
+8,Asymmetric Ridge,0.1,0.6,Spherical,1308,100.0,GS_experiment_datasets/0008_Asymmetric_Ridge_rr0.1_vr0.6_fr1_Spherical,0.6017565226440357,1.0,0
+9,Asymmetric Ridge,0.1,0.7,Spherical,1309,100.0,GS_experiment_datasets/0009_Asymmetric_Ridge_rr0.1_vr0.7_fr0.25_Spherical,0.7034320170498299,0.25,0
+10,Asymmetric Ridge,0.1,0.7,Spherical,1310,100.0,GS_experiment_datasets/0010_Asymmetric_Ridge_rr0.1_vr0.7_fr0.5_Spherical,0.7014901429899612,0.5,0
+11,Asymmetric Ridge,0.1,0.7,Spherical,1311,100.0,GS_experiment_datasets/0011_Asymmetric_Ridge_rr0.1_vr0.7_fr1_Spherical,0.7002435859514369,1.0,0
+12,Asymmetric Ridge,0.15,0.4,Spherical,1312,150.0,GS_experiment_datasets/0012_Asymmetric_Ridge_rr0.15_vr0.4_fr0.25_Spherical,0.4077294364636726,0.25,0
+13,Asymmetric Ridge,0.15,0.4,Spherical,1313,150.0,GS_experiment_datasets/0013_Asymmetric_Ridge_rr0.15_vr0.4_fr0.5_Spherical,0.40011476124460493,0.5,0
+14,Asymmetric Ridge,0.15,0.4,Spherical,1314,150.0,GS_experiment_datasets/0014_Asymmetric_Ridge_rr0.15_vr0.4_fr1_Spherical,0.4023860387868803,1.0,0
+15,Asymmetric Ridge,0.15,0.5,Spherical,1315,150.0,GS_experiment_datasets/0015_Asymmetric_Ridge_rr0.15_vr0.5_fr0.25_Spherical,0.5042685095215091,0.25,0
+16,Asymmetric Ridge,0.15,0.5,Spherical,1316,150.0,GS_experiment_datasets/0016_Asymmetric_Ridge_rr0.15_vr0.5_fr0.5_Spherical,0.5004608800978326,0.5,0
+17,Asymmetric Ridge,0.15,0.5,Spherical,1317,150.0,GS_experiment_datasets/0017_Asymmetric_Ridge_rr0.15_vr0.5_fr1_Spherical,0.500023126374691,1.0,0
+18,Asymmetric Ridge,0.15,0.6,Spherical,1318,150.0,GS_experiment_datasets/0018_Asymmetric_Ridge_rr0.15_vr0.6_fr0.25_Spherical,0.6000362165400114,0.25,0
+19,Asymmetric Ridge,0.15,0.6,Spherical,1319,150.0,GS_experiment_datasets/0019_Asymmetric_Ridge_rr0.15_vr0.6_fr0.5_Spherical,0.6011656806212453,0.5,0
+20,Asymmetric Ridge,0.15,0.6,Spherical,1320,150.0,GS_experiment_datasets/0020_Asymmetric_Ridge_rr0.15_vr0.6_fr1_Spherical,0.604585118912355,1.0,0
+21,Asymmetric Ridge,0.15,0.7,Spherical,1321,150.0,GS_experiment_datasets/0021_Asymmetric_Ridge_rr0.15_vr0.7_fr0.25_Spherical,0.704216528690952,0.25,0
+22,Asymmetric Ridge,0.15,0.7,Spherical,1322,150.0,GS_experiment_datasets/0022_Asymmetric_Ridge_rr0.15_vr0.7_fr0.5_Spherical,0.7070860644651251,0.5,0
+23,Asymmetric Ridge,0.15,0.7,Spherical,1323,150.0,GS_experiment_datasets/0023_Asymmetric_Ridge_rr0.15_vr0.7_fr1_Spherical,0.7000271945518872,1.0,0
+24,Asymmetric Ridge,0.2,0.4,Spherical,1324,200.0,GS_experiment_datasets/0024_Asymmetric_Ridge_rr0.2_vr0.4_fr0.25_Spherical,0.4013126766114043,0.25,0
+25,Asymmetric Ridge,0.2,0.4,Spherical,1325,200.0,GS_experiment_datasets/0025_Asymmetric_Ridge_rr0.2_vr0.4_fr0.5_Spherical,0.40167533604827804,0.5,0
+26,Asymmetric Ridge,0.2,0.4,Spherical,1326,200.0,GS_experiment_datasets/0026_Asymmetric_Ridge_rr0.2_vr0.4_fr1_Spherical,0.404426583187558,1.0,0
+27,Asymmetric Ridge,0.2,0.5,Spherical,1327,200.0,GS_experiment_datasets/0027_Asymmetric_Ridge_rr0.2_vr0.5_fr0.25_Spherical,0.505586553836688,0.25,0
+28,Asymmetric Ridge,0.2,0.5,Spherical,1328,200.0,GS_experiment_datasets/0028_Asymmetric_Ridge_rr0.2_vr0.5_fr0.5_Spherical,0.5002793201105178,0.5,0
+29,Asymmetric Ridge,0.2,0.5,Spherical,1329,200.0,GS_experiment_datasets/0029_Asymmetric_Ridge_rr0.2_vr0.5_fr1_Spherical,0.5025348577815784,1.0,0
+30,Asymmetric Ridge,0.2,0.6,Spherical,1330,200.0,GS_experiment_datasets/0030_Asymmetric_Ridge_rr0.2_vr0.6_fr0.25_Spherical,0.6363714194577635,0.25,0
+31,Asymmetric Ridge,0.2,0.6,Spherical,1331,200.0,GS_experiment_datasets/0031_Asymmetric_Ridge_rr0.2_vr0.6_fr0.5_Spherical,0.6042698393416079,0.5,0
+32,Asymmetric Ridge,0.2,0.6,Spherical,1332,200.0,GS_experiment_datasets/0032_Asymmetric_Ridge_rr0.2_vr0.6_fr1_Spherical,0.6132231456646617,1.0,0
+33,Asymmetric Ridge,0.2,0.7,Spherical,1333,200.0,GS_experiment_datasets/0033_Asymmetric_Ridge_rr0.2_vr0.7_fr0.25_Spherical,0.7009224109766378,0.25,0
+34,Asymmetric Ridge,0.2,0.7,Spherical,1334,200.0,GS_experiment_datasets/0034_Asymmetric_Ridge_rr0.2_vr0.7_fr0.5_Spherical,0.7001885092673079,0.5,0
+35,Asymmetric Ridge,0.2,0.7,Spherical,1335,200.0,GS_experiment_datasets/0035_Asymmetric_Ridge_rr0.2_vr0.7_fr1_Spherical,0.703730566877836,1.0,0
+36,Channel Trend,0.1,0.4,Spherical,1336,100.0,GS_experiment_datasets/0036_Channel_Trend_rr0.1_vr0.4_fr0.25_Spherical,0.400118063226491,0.25,0
+37,Channel Trend,0.1,0.4,Spherical,1337,100.0,GS_experiment_datasets/0037_Channel_Trend_rr0.1_vr0.4_fr0.5_Spherical,0.40001325631797263,0.5,0
+38,Channel Trend,0.1,0.4,Spherical,1338,100.0,GS_experiment_datasets/0038_Channel_Trend_rr0.1_vr0.4_fr1_Spherical,0.4002954772320214,1.0,0
+39,Channel Trend,0.1,0.5,Spherical,1339,100.0,GS_experiment_datasets/0039_Channel_Trend_rr0.1_vr0.5_fr0.25_Spherical,0.5031106216663378,0.25,0
+40,Channel Trend,0.1,0.5,Spherical,1340,100.0,GS_experiment_datasets/0040_Channel_Trend_rr0.1_vr0.5_fr0.5_Spherical,0.5000011267198967,0.5,0
+41,Channel Trend,0.1,0.5,Spherical,1341,100.0,GS_experiment_datasets/0041_Channel_Trend_rr0.1_vr0.5_fr1_Spherical,0.5047106633508197,1.0,0
+42,Channel Trend,0.1,0.6,Spherical,1342,100.0,GS_experiment_datasets/0042_Channel_Trend_rr0.1_vr0.6_fr0.25_Spherical,0.6041395530510153,0.25,0
+43,Channel Trend,0.1,0.6,Spherical,1343,100.0,GS_experiment_datasets/0043_Channel_Trend_rr0.1_vr0.6_fr0.5_Spherical,0.6017551443432194,0.5,0
+44,Channel Trend,0.1,0.6,Spherical,1344,100.0,GS_experiment_datasets/0044_Channel_Trend_rr0.1_vr0.6_fr1_Spherical,0.6008567906827245,1.0,0
+45,Channel Trend,0.1,0.7,Spherical,1345,100.0,GS_experiment_datasets/0045_Channel_Trend_rr0.1_vr0.7_fr0.25_Spherical,0.700462942603218,0.25,0
+46,Channel Trend,0.1,0.7,Spherical,1346,100.0,GS_experiment_datasets/0046_Channel_Trend_rr0.1_vr0.7_fr0.5_Spherical,0.7005435365078855,0.5,0
+47,Channel Trend,0.1,0.7,Spherical,1347,100.0,GS_experiment_datasets/0047_Channel_Trend_rr0.1_vr0.7_fr1_Spherical,0.7027651743663239,1.0,0
+48,Channel Trend,0.15,0.4,Spherical,1348,150.0,GS_experiment_datasets/0048_Channel_Trend_rr0.15_vr0.4_fr0.25_Spherical,0.4000230553467295,0.25,0
+49,Channel Trend,0.15,0.4,Spherical,1349,150.0,GS_experiment_datasets/0049_Channel_Trend_rr0.15_vr0.4_fr0.5_Spherical,0.40114129327185793,0.5,0
+50,Channel Trend,0.15,0.4,Spherical,1350,150.0,GS_experiment_datasets/0050_Channel_Trend_rr0.15_vr0.4_fr1_Spherical,0.4032332107975211,1.0,0
+51,Channel Trend,0.15,0.5,Spherical,1351,150.0,GS_experiment_datasets/0051_Channel_Trend_rr0.15_vr0.5_fr0.25_Spherical,0.5000645580206271,0.25,0
+52,Channel Trend,0.15,0.5,Spherical,1352,150.0,GS_experiment_datasets/0052_Channel_Trend_rr0.15_vr0.5_fr0.5_Spherical,0.5083967056695412,0.5,0
+53,Channel Trend,0.15,0.5,Spherical,1353,150.0,GS_experiment_datasets/0053_Channel_Trend_rr0.15_vr0.5_fr1_Spherical,0.5009553744365485,1.0,0
+54,Channel Trend,0.15,0.6,Spherical,1354,150.0,GS_experiment_datasets/0054_Channel_Trend_rr0.15_vr0.6_fr0.25_Spherical,0.6026993389614719,0.25,0
+55,Channel Trend,0.15,0.6,Spherical,1355,150.0,GS_experiment_datasets/0055_Channel_Trend_rr0.15_vr0.6_fr0.5_Spherical,0.6052071951199512,0.5,0
+56,Channel Trend,0.15,0.6,Spherical,1356,150.0,GS_experiment_datasets/0056_Channel_Trend_rr0.15_vr0.6_fr1_Spherical,0.6000617412801684,1.0,0
+57,Channel Trend,0.15,0.7,Spherical,1357,150.0,GS_experiment_datasets/0057_Channel_Trend_rr0.15_vr0.7_fr0.25_Spherical,0.7002823796001904,0.25,0
+58,Channel Trend,0.15,0.7,Spherical,1358,150.0,GS_experiment_datasets/0058_Channel_Trend_rr0.15_vr0.7_fr0.5_Spherical,0.7059086149762616,0.5,0
+59,Channel Trend,0.15,0.7,Spherical,1359,150.0,GS_experiment_datasets/0059_Channel_Trend_rr0.15_vr0.7_fr1_Spherical,0.7000601382171338,1.0,0
+60,Channel Trend,0.2,0.4,Spherical,1360,200.0,GS_experiment_datasets/0060_Channel_Trend_rr0.2_vr0.4_fr0.25_Spherical,0.40000318664336276,0.25,0
+61,Channel Trend,0.2,0.4,Spherical,1361,200.0,GS_experiment_datasets/0061_Channel_Trend_rr0.2_vr0.4_fr0.5_Spherical,0.4049066066795977,0.5,0
+62,Channel Trend,0.2,0.4,Spherical,1362,200.0,GS_experiment_datasets/0062_Channel_Trend_rr0.2_vr0.4_fr1_Spherical,0.40375782496184814,1.0,0
+63,Channel Trend,0.2,0.5,Spherical,1363,200.0,GS_experiment_datasets/0063_Channel_Trend_rr0.2_vr0.5_fr0.25_Spherical,0.5002859311480884,0.25,0
+64,Channel Trend,0.2,0.5,Spherical,1364,200.0,GS_experiment_datasets/0064_Channel_Trend_rr0.2_vr0.5_fr0.5_Spherical,0.5003513171136587,0.5,0
+65,Channel Trend,0.2,0.5,Spherical,1365,200.0,GS_experiment_datasets/0065_Channel_Trend_rr0.2_vr0.5_fr1_Spherical,0.5004148240365018,1.0,0
+66,Channel Trend,0.2,0.6,Spherical,1366,200.0,GS_experiment_datasets/0066_Channel_Trend_rr0.2_vr0.6_fr0.25_Spherical,0.6179296555861674,0.25,0
+67,Channel Trend,0.2,0.6,Spherical,1367,200.0,GS_experiment_datasets/0067_Channel_Trend_rr0.2_vr0.6_fr0.5_Spherical,0.6022676054087505,0.5,0
+68,Channel Trend,0.2,0.6,Spherical,1368,200.0,GS_experiment_datasets/0068_Channel_Trend_rr0.2_vr0.6_fr1_Spherical,0.6003321828218812,1.0,0
+69,Channel Trend,0.2,0.7,Spherical,1369,200.0,GS_experiment_datasets/0069_Channel_Trend_rr0.2_vr0.7_fr0.25_Spherical,0.7213459923002294,0.25,0
+70,Channel Trend,0.2,0.7,Spherical,1370,200.0,GS_experiment_datasets/0070_Channel_Trend_rr0.2_vr0.7_fr0.5_Spherical,0.7050100334807082,0.5,0
+71,Channel Trend,0.2,0.7,Spherical,1371,200.0,GS_experiment_datasets/0071_Channel_Trend_rr0.2_vr0.7_fr1_Spherical,0.7016508832657854,1.0,0
+72,Gaussian Random Field - 1,0.1,0.4,Spherical,1372,100.0,GS_experiment_datasets/0072_Gaussian_Random_Field___1_rr0.1_vr0.4_fr0.25_Spherical,0.4003672611151118,0.25,0
+73,Gaussian Random Field - 1,0.1,0.4,Spherical,1373,100.0,GS_experiment_datasets/0073_Gaussian_Random_Field___1_rr0.1_vr0.4_fr0.5_Spherical,0.4024770584137575,0.5,0
+74,Gaussian Random Field - 1,0.1,0.4,Spherical,1374,100.0,GS_experiment_datasets/0074_Gaussian_Random_Field___1_rr0.1_vr0.4_fr1_Spherical,0.4000353944841095,1.0,0
+75,Gaussian Random Field - 1,0.1,0.5,Spherical,1375,100.0,GS_experiment_datasets/0075_Gaussian_Random_Field___1_rr0.1_vr0.5_fr0.25_Spherical,0.5043366215966445,0.25,0
+76,Gaussian Random Field - 1,0.1,0.5,Spherical,1376,100.0,GS_experiment_datasets/0076_Gaussian_Random_Field___1_rr0.1_vr0.5_fr0.5_Spherical,0.5016930934161951,0.5,0
+77,Gaussian Random Field - 1,0.1,0.5,Spherical,1377,100.0,GS_experiment_datasets/0077_Gaussian_Random_Field___1_rr0.1_vr0.5_fr1_Spherical,0.5016947545555182,1.0,0
+78,Gaussian Random Field - 1,0.1,0.6,Spherical,1378,100.0,GS_experiment_datasets/0078_Gaussian_Random_Field___1_rr0.1_vr0.6_fr0.25_Spherical,0.6010291040249504,0.25,0
+79,Gaussian Random Field - 1,0.1,0.6,Spherical,1379,100.0,GS_experiment_datasets/0079_Gaussian_Random_Field___1_rr0.1_vr0.6_fr0.5_Spherical,0.6001595236509683,0.5,0
+80,Gaussian Random Field - 1,0.1,0.6,Spherical,1380,100.0,GS_experiment_datasets/0080_Gaussian_Random_Field___1_rr0.1_vr0.6_fr1_Spherical,0.6014165538692274,1.0,0
+81,Gaussian Random Field - 1,0.1,0.7,Spherical,1381,100.0,GS_experiment_datasets/0081_Gaussian_Random_Field___1_rr0.1_vr0.7_fr0.25_Spherical,0.7012957779086509,0.25,0
+82,Gaussian Random Field - 1,0.1,0.7,Spherical,1382,100.0,GS_experiment_datasets/0082_Gaussian_Random_Field___1_rr0.1_vr0.7_fr0.5_Spherical,0.7011956669062299,0.5,0
+83,Gaussian Random Field - 1,0.1,0.7,Spherical,1383,100.0,GS_experiment_datasets/0083_Gaussian_Random_Field___1_rr0.1_vr0.7_fr1_Spherical,0.7035978807618724,1.0,0
+84,Gaussian Random Field - 1,0.15,0.4,Spherical,1384,150.0,GS_experiment_datasets/0084_Gaussian_Random_Field___1_rr0.15_vr0.4_fr0.25_Spherical,0.40021085463215067,0.25,0
+85,Gaussian Random Field - 1,0.15,0.4,Spherical,1385,150.0,GS_experiment_datasets/0085_Gaussian_Random_Field___1_rr0.15_vr0.4_fr0.5_Spherical,0.40028773529797124,0.5,0
+86,Gaussian Random Field - 1,0.15,0.4,Spherical,1386,150.0,GS_experiment_datasets/0086_Gaussian_Random_Field___1_rr0.15_vr0.4_fr1_Spherical,0.4010298688283679,1.0,0
+87,Gaussian Random Field - 1,0.15,0.5,Spherical,1387,150.0,GS_experiment_datasets/0087_Gaussian_Random_Field___1_rr0.15_vr0.5_fr0.25_Spherical,0.5069937143134527,0.25,0
+88,Gaussian Random Field - 1,0.15,0.5,Spherical,1388,150.0,GS_experiment_datasets/0088_Gaussian_Random_Field___1_rr0.15_vr0.5_fr0.5_Spherical,0.5024957574966031,0.5,0
+89,Gaussian Random Field - 1,0.15,0.5,Spherical,1389,150.0,GS_experiment_datasets/0089_Gaussian_Random_Field___1_rr0.15_vr0.5_fr1_Spherical,0.5037755752010846,1.0,0
+90,Gaussian Random Field - 1,0.15,0.6,Spherical,1390,150.0,GS_experiment_datasets/0090_Gaussian_Random_Field___1_rr0.15_vr0.6_fr0.25_Spherical,0.6073518243577328,0.25,0
+91,Gaussian Random Field - 1,0.15,0.6,Spherical,1391,150.0,GS_experiment_datasets/0091_Gaussian_Random_Field___1_rr0.15_vr0.6_fr0.5_Spherical,0.6007489459281142,0.5,0
+92,Gaussian Random Field - 1,0.15,0.6,Spherical,1392,150.0,GS_experiment_datasets/0092_Gaussian_Random_Field___1_rr0.15_vr0.6_fr1_Spherical,0.6108233550161297,1.0,0
+93,Gaussian Random Field - 1,0.15,0.7,Spherical,1393,150.0,GS_experiment_datasets/0093_Gaussian_Random_Field___1_rr0.15_vr0.7_fr0.25_Spherical,0.7016360366416459,0.25,0
+94,Gaussian Random Field - 1,0.15,0.7,Spherical,1394,150.0,GS_experiment_datasets/0094_Gaussian_Random_Field___1_rr0.15_vr0.7_fr0.5_Spherical,0.7043601638849796,0.5,0
+95,Gaussian Random Field - 1,0.15,0.7,Spherical,1395,150.0,GS_experiment_datasets/0095_Gaussian_Random_Field___1_rr0.15_vr0.7_fr1_Spherical,0.7009516233365544,1.0,0
+96,Gaussian Random Field - 1,0.2,0.4,Spherical,1396,200.0,GS_experiment_datasets/0096_Gaussian_Random_Field___1_rr0.2_vr0.4_fr0.25_Spherical,0.4056243107405163,0.25,0
+97,Gaussian Random Field - 1,0.2,0.4,Spherical,1397,200.0,GS_experiment_datasets/0097_Gaussian_Random_Field___1_rr0.2_vr0.4_fr0.5_Spherical,0.4002210838312539,0.5,0
+98,Gaussian Random Field - 1,0.2,0.4,Spherical,1398,200.0,GS_experiment_datasets/0098_Gaussian_Random_Field___1_rr0.2_vr0.4_fr1_Spherical,0.4006951172195821,1.0,0
+99,Gaussian Random Field - 1,0.2,0.5,Spherical,1399,200.0,GS_experiment_datasets/0099_Gaussian_Random_Field___1_rr0.2_vr0.5_fr0.25_Spherical,0.5020740630752238,0.25,0
+100,Gaussian Random Field - 1,0.2,0.5,Spherical,1400,200.0,GS_experiment_datasets/0100_Gaussian_Random_Field___1_rr0.2_vr0.5_fr0.5_Spherical,0.5001992784233942,0.5,0
+101,Gaussian Random Field - 1,0.2,0.5,Spherical,1401,200.0,GS_experiment_datasets/0101_Gaussian_Random_Field___1_rr0.2_vr0.5_fr1_Spherical,0.5008455180992066,1.0,0
+102,Gaussian Random Field - 1,0.2,0.6,Spherical,1402,200.0,GS_experiment_datasets/0102_Gaussian_Random_Field___1_rr0.2_vr0.6_fr0.25_Spherical,0.6061582694666713,0.25,0
+103,Gaussian Random Field - 1,0.2,0.6,Spherical,1403,200.0,GS_experiment_datasets/0103_Gaussian_Random_Field___1_rr0.2_vr0.6_fr0.5_Spherical,0.6005929400761363,0.5,0
+104,Gaussian Random Field - 1,0.2,0.6,Spherical,1404,200.0,GS_experiment_datasets/0104_Gaussian_Random_Field___1_rr0.2_vr0.6_fr1_Spherical,0.6063508709030356,1.0,0
+105,Gaussian Random Field - 1,0.2,0.7,Spherical,1405,200.0,GS_experiment_datasets/0105_Gaussian_Random_Field___1_rr0.2_vr0.7_fr0.25_Spherical,0.7001374066579726,0.25,0
+106,Gaussian Random Field - 1,0.2,0.7,Spherical,1406,200.0,GS_experiment_datasets/0106_Gaussian_Random_Field___1_rr0.2_vr0.7_fr0.5_Spherical,0.7384239233952944,0.5,0
+107,Gaussian Random Field - 1,0.2,0.7,Spherical,1407,200.0,GS_experiment_datasets/0107_Gaussian_Random_Field___1_rr0.2_vr0.7_fr1_Spherical,0.7001253385041091,1.0,0
+108,Gaussian Random Field - 2,0.1,0.4,Spherical,1408,100.0,GS_experiment_datasets/0108_Gaussian_Random_Field___2_rr0.1_vr0.4_fr0.25_Spherical,0.4009134898244654,0.25,0
+109,Gaussian Random Field - 2,0.1,0.4,Spherical,1409,100.0,GS_experiment_datasets/0109_Gaussian_Random_Field___2_rr0.1_vr0.4_fr0.5_Spherical,0.40005201902315435,0.5,0
+110,Gaussian Random Field - 2,0.1,0.4,Spherical,1410,100.0,GS_experiment_datasets/0110_Gaussian_Random_Field___2_rr0.1_vr0.4_fr1_Spherical,0.40064975219988724,1.0,0
+111,Gaussian Random Field - 2,0.1,0.5,Spherical,1411,100.0,GS_experiment_datasets/0111_Gaussian_Random_Field___2_rr0.1_vr0.5_fr0.25_Spherical,0.5008228443377089,0.25,0
+112,Gaussian Random Field - 2,0.1,0.5,Spherical,1412,100.0,GS_experiment_datasets/0112_Gaussian_Random_Field___2_rr0.1_vr0.5_fr0.5_Spherical,0.500241320465947,0.5,0
+113,Gaussian Random Field - 2,0.1,0.5,Spherical,1413,100.0,GS_experiment_datasets/0113_Gaussian_Random_Field___2_rr0.1_vr0.5_fr1_Spherical,0.50006812605264,1.0,0
+114,Gaussian Random Field - 2,0.1,0.6,Spherical,1414,100.0,GS_experiment_datasets/0114_Gaussian_Random_Field___2_rr0.1_vr0.6_fr0.25_Spherical,0.6048404439947698,0.25,0
+115,Gaussian Random Field - 2,0.1,0.6,Spherical,1415,100.0,GS_experiment_datasets/0115_Gaussian_Random_Field___2_rr0.1_vr0.6_fr0.5_Spherical,0.6013445304387868,0.5,0
+116,Gaussian Random Field - 2,0.1,0.6,Spherical,1416,100.0,GS_experiment_datasets/0116_Gaussian_Random_Field___2_rr0.1_vr0.6_fr1_Spherical,0.6000272616159836,1.0,0
+117,Gaussian Random Field - 2,0.1,0.7,Spherical,1417,100.0,GS_experiment_datasets/0117_Gaussian_Random_Field___2_rr0.1_vr0.7_fr0.25_Spherical,0.7001420801603424,0.25,0
+118,Gaussian Random Field - 2,0.1,0.7,Spherical,1418,100.0,GS_experiment_datasets/0118_Gaussian_Random_Field___2_rr0.1_vr0.7_fr0.5_Spherical,0.7004781072986069,0.5,0
+119,Gaussian Random Field - 2,0.1,0.7,Spherical,1419,100.0,GS_experiment_datasets/0119_Gaussian_Random_Field___2_rr0.1_vr0.7_fr1_Spherical,0.7002362673087658,1.0,0
+120,Gaussian Random Field - 2,0.15,0.4,Spherical,1420,150.0,GS_experiment_datasets/0120_Gaussian_Random_Field___2_rr0.15_vr0.4_fr0.25_Spherical,0.4025097952025292,0.25,0
+121,Gaussian Random Field - 2,0.15,0.4,Spherical,1421,150.0,GS_experiment_datasets/0121_Gaussian_Random_Field___2_rr0.15_vr0.4_fr0.5_Spherical,0.4006005964010104,0.5,0
+122,Gaussian Random Field - 2,0.15,0.4,Spherical,1422,150.0,GS_experiment_datasets/0122_Gaussian_Random_Field___2_rr0.15_vr0.4_fr1_Spherical,0.4017193285376032,1.0,0
+123,Gaussian Random Field - 2,0.15,0.5,Spherical,1423,150.0,GS_experiment_datasets/0123_Gaussian_Random_Field___2_rr0.15_vr0.5_fr0.25_Spherical,0.501166837516562,0.25,0
+124,Gaussian Random Field - 2,0.15,0.5,Spherical,1424,150.0,GS_experiment_datasets/0124_Gaussian_Random_Field___2_rr0.15_vr0.5_fr0.5_Spherical,0.5016099166308571,0.5,0
+125,Gaussian Random Field - 2,0.15,0.5,Spherical,1425,150.0,GS_experiment_datasets/0125_Gaussian_Random_Field___2_rr0.15_vr0.5_fr1_Spherical,0.5007715119754556,1.0,0
+126,Gaussian Random Field - 2,0.15,0.6,Spherical,1426,150.0,GS_experiment_datasets/0126_Gaussian_Random_Field___2_rr0.15_vr0.6_fr0.25_Spherical,0.6007499950112358,0.25,0
+127,Gaussian Random Field - 2,0.15,0.6,Spherical,1427,150.0,GS_experiment_datasets/0127_Gaussian_Random_Field___2_rr0.15_vr0.6_fr0.5_Spherical,0.6266715585929558,0.5,0
+128,Gaussian Random Field - 2,0.15,0.6,Spherical,1428,150.0,GS_experiment_datasets/0128_Gaussian_Random_Field___2_rr0.15_vr0.6_fr1_Spherical,0.6000928803025167,1.0,0
+129,Gaussian Random Field - 2,0.15,0.7,Spherical,1429,150.0,GS_experiment_datasets/0129_Gaussian_Random_Field___2_rr0.15_vr0.7_fr0.25_Spherical,0.7188845676087737,0.25,0
+130,Gaussian Random Field - 2,0.15,0.7,Spherical,1430,150.0,GS_experiment_datasets/0130_Gaussian_Random_Field___2_rr0.15_vr0.7_fr0.5_Spherical,0.7062837785468066,0.5,0
+131,Gaussian Random Field - 2,0.15,0.7,Spherical,1431,150.0,GS_experiment_datasets/0131_Gaussian_Random_Field___2_rr0.15_vr0.7_fr1_Spherical,0.7001299191201787,1.0,0
+132,Gaussian Random Field - 2,0.2,0.4,Spherical,1432,200.0,GS_experiment_datasets/0132_Gaussian_Random_Field___2_rr0.2_vr0.4_fr0.25_Spherical,0.4004622583506319,0.25,0
+133,Gaussian Random Field - 2,0.2,0.4,Spherical,1433,200.0,GS_experiment_datasets/0133_Gaussian_Random_Field___2_rr0.2_vr0.4_fr0.5_Spherical,0.40082366586091794,0.5,0
+134,Gaussian Random Field - 2,0.2,0.4,Spherical,1434,200.0,GS_experiment_datasets/0134_Gaussian_Random_Field___2_rr0.2_vr0.4_fr1_Spherical,0.40808963745595267,1.0,0
+135,Gaussian Random Field - 2,0.2,0.5,Spherical,1435,200.0,GS_experiment_datasets/0135_Gaussian_Random_Field___2_rr0.2_vr0.5_fr0.25_Spherical,0.5034378433600867,0.25,0
+136,Gaussian Random Field - 2,0.2,0.5,Spherical,1436,200.0,GS_experiment_datasets/0136_Gaussian_Random_Field___2_rr0.2_vr0.5_fr0.5_Spherical,0.5012975645116409,0.5,0
+137,Gaussian Random Field - 2,0.2,0.5,Spherical,1437,200.0,GS_experiment_datasets/0137_Gaussian_Random_Field___2_rr0.2_vr0.5_fr1_Spherical,0.5000711958284737,1.0,0
+138,Gaussian Random Field - 2,0.2,0.6,Spherical,1438,200.0,GS_experiment_datasets/0138_Gaussian_Random_Field___2_rr0.2_vr0.6_fr0.25_Spherical,0.6026048620660193,0.25,0
+139,Gaussian Random Field - 2,0.2,0.6,Spherical,1439,200.0,GS_experiment_datasets/0139_Gaussian_Random_Field___2_rr0.2_vr0.6_fr0.5_Spherical,0.6021124833061439,0.5,0
+140,Gaussian Random Field - 2,0.2,0.6,Spherical,1440,200.0,GS_experiment_datasets/0140_Gaussian_Random_Field___2_rr0.2_vr0.6_fr1_Spherical,0.6225088912334449,1.0,0
+141,Gaussian Random Field - 2,0.2,0.7,Spherical,1441,200.0,GS_experiment_datasets/0141_Gaussian_Random_Field___2_rr0.2_vr0.7_fr0.25_Spherical,0.7158489689271801,0.25,0
+142,Gaussian Random Field - 2,0.2,0.7,Spherical,1442,200.0,GS_experiment_datasets/0142_Gaussian_Random_Field___2_rr0.2_vr0.7_fr0.5_Spherical,0.7000911125108443,0.5,0
+143,Gaussian Random Field - 2,0.2,0.7,Spherical,1443,200.0,GS_experiment_datasets/0143_Gaussian_Random_Field___2_rr0.2_vr0.7_fr1_Spherical,0.7056896455615066,1.0,0

@@ -1,0 +1,13 @@
+{
+  "combo_index": 124,
+  "trend_label": "Gaussian Random Field - 2",
+  "range_ratio": 0.15,
+  "variance_ratio": 0.5,
+  "variogram_type": "Spherical",
+  "residual_seed": 1424,
+  "residual_range_m": 150.0,
+  "folder": "GS_experiment_datasets/0124_Gaussian_Random_Field___2_rr0.15_vr0.5_fr0.5_Spherical",
+  "actual_trend_to_total_var": 0.5016099166308571,
+  "f_regular": 0.5,
+  "nugget": 0
+}

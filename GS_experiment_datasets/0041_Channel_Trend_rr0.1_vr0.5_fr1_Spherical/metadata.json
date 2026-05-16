@@ -1,0 +1,13 @@
+{
+  "combo_index": 41,
+  "trend_label": "Channel Trend",
+  "range_ratio": 0.1,
+  "variance_ratio": 0.5,
+  "variogram_type": "Spherical",
+  "residual_seed": 1341,
+  "residual_range_m": 100.0,
+  "folder": "GS_experiment_datasets/0041_Channel_Trend_rr0.1_vr0.5_fr1_Spherical",
+  "actual_trend_to_total_var": 0.5047106633508197,
+  "f_regular": 1,
+  "nugget": 0
+}

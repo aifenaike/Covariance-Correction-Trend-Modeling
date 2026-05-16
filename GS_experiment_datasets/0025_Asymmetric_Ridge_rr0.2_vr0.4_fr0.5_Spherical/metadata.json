@@ -1,0 +1,13 @@
+{
+  "combo_index": 25,
+  "trend_label": "Asymmetric Ridge",
+  "range_ratio": 0.2,
+  "variance_ratio": 0.4,
+  "variogram_type": "Spherical",
+  "residual_seed": 1325,
+  "residual_range_m": 200.0,
+  "folder": "GS_experiment_datasets/0025_Asymmetric_Ridge_rr0.2_vr0.4_fr0.5_Spherical",
+  "actual_trend_to_total_var": 0.40167533604827804,
+  "f_regular": 0.5,
+  "nugget": 0
+}
